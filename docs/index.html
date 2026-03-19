@@ -1,10 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Weather Pipeline</title>
 </head>
 <body>
-    <h1>Weather pipeline is running...</h1>
-    <p>Madrid, Vienna and Aalborg weather data is being collected.</p>
+
+    <h1>🌤️ Weather Poem</h1>
+
+    <pre id="poem">Loading poem...</pre>
+
+    <h2>📊 Weather Data</h2>
+    <pre id="weather">Loading weather...</pre>
+
+    <script>
+        // Cargar poema
+        fetch("poem.txt")
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById("poem").textContent = data;
+            });
+
+        // Cargar weather
+        fetch("weather.json")
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("weather").textContent =
+                    JSON.stringify(data, null, 2);
+            });
+    </script>
+
 </body>
 </html>
