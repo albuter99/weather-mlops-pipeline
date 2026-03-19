@@ -5,6 +5,7 @@ import requests_cache
 from retry_requests import retry
 from groq import Groq
 import os
+import json
 
 DB_PATH = "weather.db"
 
