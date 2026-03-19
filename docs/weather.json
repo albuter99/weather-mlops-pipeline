@@ -2,25 +2,31 @@
   {
     "location": "Madrid",
     "date": "2026-03-20",
-    "temp_max": 11.5,
-    "temp_min": 7.5,
-    "precipitation": 0.4,
-    "wind": 11.2
+    "temp_max": 17.963001251220703,
+    "temp_min": 7.063000202178955,
+    "precipitation": 0.0,
+    "wind": 10.691452980041504,
+    "daylight": 43543.62890625,
+    "uv": 5.849999904632568
   },
   {
     "location": "Vienna",
     "date": "2026-03-20",
-    "temp_max": 13.8,
-    "temp_min": 5.1,
+    "temp_max": 14.011000633239746,
+    "temp_min": 3.810999870300293,
     "precipitation": 0.0,
-    "wind": 12.1
+    "wind": 11.480557441711426,
+    "daylight": 43561.3671875,
+    "uv": 4.300000190734863
   },
   {
     "location": "Aalborg",
     "date": "2026-03-20",
-    "temp_max": 11.9,
-    "temp_min": 2.7,
-    "precipitation": 0.0,
-    "wind": 13.3
+    "temp_max": 10.854499816894531,
+    "temp_min": 5.054500102996826,
+    "precipitation": 0.10000000149011612,
+    "wind": 14.399999618530273,
+    "daylight": 43606.09375,
+    "uv": 2.75
   }
 ]
