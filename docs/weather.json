@@ -1,0 +1,26 @@
+[
+  {
+    "location": "Madrid",
+    "date": "2026-03-20",
+    "temp_max": 11.5,
+    "temp_min": 7.5,
+    "precipitation": 0.4,
+    "wind": 11.2
+  },
+  {
+    "location": "Vienna",
+    "date": "2026-03-20",
+    "temp_max": 13.8,
+    "temp_min": 5.1,
+    "precipitation": 0.0,
+    "wind": 12.1
+  },
+  {
+    "location": "Aalborg",
+    "date": "2026-03-20",
+    "temp_max": 11.9,
+    "temp_min": 2.7,
+    "precipitation": 0.0,
+    "wind": 13.3
+  }
+]
