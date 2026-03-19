@@ -3,6 +3,9 @@ name: Weather Pipeline
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write   
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -21,3 +24,11 @@ jobs:
 
       - name: Run pipeline
         run: python fetch.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add docs/weather.json
+          git diff --cached --quiet || git commit -m "Update weather data"
+          git push
