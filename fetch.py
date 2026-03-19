@@ -1,15 +1,15 @@
-import requests
+import openmeteo_requests
 import sqlite3
-import json
-import os
 from datetime import date, timedelta
+import requests_cache
+from retry_requests import retry
 
 DB_PATH = "weather.db"
 
 LOCATIONS = [
-    {"name": "Madrid", "lat": 40.4168, "lon": -3.7038},
-    {"name": "Vienna", "lat": 48.2082, "lon": 16.3738},
-    {"name": "Aalborg", "lat": 57.0488, "lon": 9.9217},
+    {"name": "Madrid", "lat": 40.4165, "lon": -3.7026},
+    {"name": "Vienna", "lat": 48.2085, "lon": 16.3721},
+    {"name": "Aalborg", "lat": 57.048, "lon": 9.9187},
 ]
 
 
@@ -29,6 +29,8 @@ def init_db():
         temp_min REAL,
         precipitation REAL,
         wind REAL,
+        daylight REAL,
+        uv REAL,
         PRIMARY KEY (location, date)
     )
     """)
@@ -37,75 +39,61 @@ def init_db():
     return conn
 
 
-def fetch_weather(lat, lon, forecast_date):
+def main():
+    # Setup API client
+    cache_session = requests_cache.CachedSession('.cache', expire_after=3600)
+    retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
+    openmeteo = openmeteo_requests.Client(session=retry_session)
+
+    conn = init_db()
+
     url = "https://api.open-meteo.com/v1/forecast"
 
     params = {
-        "latitude": lat,
-        "longitude": lon,
-        "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
-        "start_date": forecast_date,
-        "end_date": forecast_date,
-        "timezone": "auto"
+        "latitude": [loc["lat"] for loc in LOCATIONS],
+        "longitude": [loc["lon"] for loc in LOCATIONS],
+        "daily": [
+            "temperature_2m_max",
+            "temperature_2m_min",
+            "precipitation_sum",
+            "wind_speed_10m_max",
+            "daylight_duration",
+            "uv_index_max"
+        ],
+        "timezone": "Europe/Berlin",
+        "forecast_days": 1,
     }
 
-    response = requests.get(url, params=params, timeout=30)
-    response.raise_for_status()
+    responses = openmeteo.weather_api(url, params=params)
 
-    data = response.json()["daily"]
-
-    return {
-        "temp_max": data["temperature_2m_max"][0],
-        "temp_min": data["temperature_2m_min"][0],
-        "precipitation": data["precipitation_sum"][0],
-        "wind": data["wind_speed_10m_max"][0]
-    }
-
-
-def main():
-    conn = init_db()
     forecast_date = get_tomorrow()
 
-    # Insertar datos en SQLite
-    for loc in LOCATIONS:
-        weather = fetch_weather(loc["lat"], loc["lon"], forecast_date)
+    for i, response in enumerate(responses):
+        location = LOCATIONS[i]["name"]
+
+        daily = response.Daily()
+
+        temp_max = daily.Variables(0).ValuesAsNumpy()[0]
+        temp_min = daily.Variables(1).ValuesAsNumpy()[0]
+        precipitation = daily.Variables(2).ValuesAsNumpy()[0]
+        wind = daily.Variables(3).ValuesAsNumpy()[0]
+        daylight = daily.Variables(4).ValuesAsNumpy()[0]
+        uv = daily.Variables(5).ValuesAsNumpy()[0]
 
         conn.execute("""
-        INSERT OR REPLACE INTO weather VALUES (?, ?, ?, ?, ?, ?)
+        INSERT OR REPLACE INTO weather VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         """, (
-            loc["name"],
+            location,
             forecast_date,
-            weather["temp_max"],
-            weather["temp_min"],
-            weather["precipitation"],
-            weather["wind"]
+            float(temp_max),
+            float(temp_min),
+            float(precipitation),
+            float(wind),
+            float(daylight),
+            float(uv)
         ))
 
     conn.commit()
-
-    # Leer datos desde la base de datos
-    cursor = conn.cursor()
-    rows = cursor.execute("SELECT * FROM weather").fetchall()
-
-    # Crear carpeta docs si no existe
-    os.makedirs("docs", exist_ok=True)
-
-    # Convertir datos a JSON
-    results = []
-    for row in rows:
-        results.append({
-            "location": row[0],
-            "date": row[1],
-            "temp_max": row[2],
-            "temp_min": row[3],
-            "precipitation": row[4],
-            "wind": row[5]
-        })
-
-    # Guardar JSON para GitHub Pages
-    with open("docs/weather.json", "w") as f:
-        json.dump(results, f, indent=2)
-
     conn.close()
 
     print("Weather data stored successfully")
