@@ -1,5 +1,7 @@
 import requests
 import sqlite3
+import json
+import os
 from datetime import date, timedelta
 
 DB_PATH = "weather.db"
@@ -64,6 +66,7 @@ def main():
     conn = init_db()
     forecast_date = get_tomorrow()
 
+    # Insertar datos en SQLite
     for loc in LOCATIONS:
         weather = fetch_weather(loc["lat"], loc["lon"], forecast_date)
 
@@ -79,6 +82,30 @@ def main():
         ))
 
     conn.commit()
+
+    # Leer datos desde la base de datos
+    cursor = conn.cursor()
+    rows = cursor.execute("SELECT * FROM weather").fetchall()
+
+    # Crear carpeta docs si no existe
+    os.makedirs("docs", exist_ok=True)
+
+    # Convertir datos a JSON
+    results = []
+    for row in rows:
+        results.append({
+            "location": row[0],
+            "date": row[1],
+            "temp_max": row[2],
+            "temp_min": row[3],
+            "precipitation": row[4],
+            "wind": row[5]
+        })
+
+    # Guardar JSON para GitHub Pages
+    with open("docs/weather.json", "w") as f:
+        json.dump(results, f, indent=2)
+
     conn.close()
 
     print("Weather data stored successfully")
