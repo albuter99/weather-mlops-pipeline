@@ -1,11 +1,15 @@
-As tomorrow's forecast unfolds, 
-Madrid's mild breeze whispers low, 
-11 degrees at its peak, with gentle showers to bestow, 
-while Vienna's sunshine beams, with temperatures slightly higher to show, 
-Aalborg's winds howl strong, with chilly nights to know.
+English:
+Tomorrow, Madrid's gentle breeze whispers low,
+at 11 degrees, a calm and peaceful glow.
+Vienna shines with slightly warmer rays,
+while Aalborg's winds howl, on a chilly phase.
+Vienna's UV index high, a warning to share,
+Aalborg's daylight longest, with sunshine to spare.
 
-Mañana, la elección es clara, 
-Viena es el lugar donde brilla el sol con mayor calidez y sin lluvia, 
-con 14 grados y un viento moderado, es el destino ideal, 
-donde la duración del día es generosa y el índice UV es suave, 
-así que mañana, Viena es el lugar donde queremos estar.
+Spanish:
+Pero si tuviera que elegir, 
+escogería Viena, 
+con su temperatura suave y su cielo despejado, 
+sin precipitaciones, sin viento fuerte, 
+un lugar ideal para disfrutar del nuevo día, 
+con un índice UV moderado, que invita a salir.
