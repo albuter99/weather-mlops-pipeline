@@ -1,17 +1,18 @@
-English Section:
-Tomorrow's forecast beckons, a tale of three cities so fine,
-Madrid's warmth shines bright, with 17 degrees divine.
-Vienna's gentle breeze whispers low, at 15 degrees a gentle hue,
-Aalborg's chill begins, with 9 degrees, and winds anew.
-The UV index varies, from Madrid's 6 to Vienna's 4, 
-Aalborg's 2.75, a difference to endure.
+English:
+As sunrise paints the morning sky,
+Madrid's warmth beckons, with temperatures high,
+18 degrees, a gentle breeze to sway,
+A perfect day, in a gentle way.
+Vienna's chill, with winds that blow,
+Aalborg's rain, and cloudy woe,
+Madrid's charm, is where I'd choose to be,
+Tomorrow's delight, for you and me.
 
-Spanish Section:
-Mañana, el clima nos llama, con temperaturas tan distintas,
-Madrid brilla con 17 grados, sin lluvia, un día perfecto que insistas.
-Viena ofrece 15 grados, con vientos suaves, un día sereno,
-Aalborg, con 9 grados, y vientos fuertes, un día más fresco y sereno.
-La duración de la luz del día también varía, 
-Madrid tiene 44184 segundos, Viena 44401, y Aalborg 44766, 
-así que, si tuviera que elegir, mañana me gustaría estar en Madrid, 
-donde el sol brilla con fuerza, y el clima es agradable y calido.
+Spanish:
+Mañana, el sol brilla con fuerza en Madrid,
+mientras Viena y Aalborg enfrentan un día más frío,
+sin lluvia en Madrid, pero vientos suaves que acarician,
+y un índice UV que invita a disfrutar del día.
+En Viena, el viento es más fuerte, y en Aalborg, la lluvia cae,
+pero en Madrid, el clima es dulce, y el sol brilla con alegría,
+así que mañana, ¡vamos a Madrid, a disfrutar del día!
