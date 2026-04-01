@@ -1,14 +1,16 @@
 English:
-Tomorrow, Madrid's warmth will shine,
-19 degrees at its peak, a lovely sign.
-No rain, gentle breeze, a pleasant day,
-With 6.5 UV index, don your sunglasses in May.
-In contrast, Vienna's chill will prevail,
-8 degrees, with rain, and a stronger gale.
+As sunrise breaks, Madrid's warmth abides,
+Nineteen degrees, a gentle, sunny tide.
+In contrast, Vienna's chill begins to seep,
+Twelve degrees, with rain, a somber sleep.
+Aalborg's breeze is crisp, with eleven degrees high,
+Yet, its long daylight hours touch the evening sky.
 
 Spanish:
-Mientras, Viena y Aalborg ofrecen un contraste,
-Viena con lluvia y viento, Aalborg con un viento más intenso y frío.
-Aalborg tiene 11 grados, con viento fuerte,
-Pero Madrid, con su calor y sol, es el lugar más agradable de estar mañana,
-Con 45462 segundos de luz del día, es el destino perfecto para disfrutar del clima primaveral.
+Mañana, ¿dónde estaría bien?
+En Madrid, el sol brilla con dulzura,
+Mientras Viena y Aalborg, más frías, llaman a la prudencia.
+Con índice UV de 6.6, Madrid nos sonríe,
+Y aunque el viento sopla, su calor nos envuelve con suavidad.
+Tomorrow, where would it be nice to be?
+In Madrid, the sun shines with sweetness.
