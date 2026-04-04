@@ -1,18 +1,15 @@
-English Section:
-As spring awakens, three cities come alive,
-Madrid, Vienna, and Aalborg, each with its own stride.
-Madrid boasts warm sunshine, 21 degrees at its peak,
-While Vienna's gentle breeze whispers secrets, its temperature unique.
-Aalborg, though chillier, shines with longer days,
-But rain and wind may dampen its Nordic ways.
-Tomorrow, Madrid's warmth and clear skies will reign,
-Making it the perfect haven, free from April's rain.
+English:
+Tomorrow, Madrid's warmth will shine so bright,
+23 degrees high, a gentle, sunny sight.
+Vienna's cooler, with a breeze so strong,
+while Aalborg's rain and wind sing a different song.
+With UV index high, Madrid's the place to be,
+for a sunny day, wild and carefree.
 
-Spanish Section:
-Mañana, si buscas un lugar ideal,
-Madrid es tu destino, con sol y calor que abrasa y revive.
-Viena, con su brisa suave, ofrece un clima más templado,
-Pero Aalborg, con su lluvia y viento, puede ser más desafiante y helado.
-La duración del día y el índice UV también juegan un papel,
-Pero Madrid, con su máximo de 21 grados, es el lugar donde queremos estar y sentirnos bien.
-Así que mañana, si puedes elegir, elige Madrid, y deja que su clima te envuelva en calor y luz.
+Spanish:
+Mañana, Viena y Aalborg ofrecen un contraste,
+con temperaturas bajas y viento que insistente lasta.
+Pero Madrid, con su calor y sol radiante,
+es el lugar ideal para disfrutar del día sin preocupación.
+Con un índice UV más alto, Madrid brilla con luz propia,
+y es el destino perfecto para sentir la alegría y la vida en todo su esplendor.
