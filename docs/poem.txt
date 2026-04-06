@@ -1,15 +1,16 @@
-English Section:
+English:
 Tomorrow, Madrid's warm breeze whispers low,
 A gentle 25 degrees, with sunshine's glow.
-No rain falls, just a soft, serene delight,
-A peaceful day, with UV index shining bright.
-In contrast, Vienna's clouds bring scattered showers,
-And Aalborg's winds howl strong, with chilly, grey hours.
+In Vienna, cooler winds do softly blow,
+At 18 degrees, a pleasant day to know.
+But Aalborg's chill, with winds that strongly sway,
+At 9 degrees, a colder dawn of day.
 
-Spanish Section:
-Mientras en Viena la lluvia cae con suavidad,
-y en Aalborg el viento helado corta con dureza,
-Madrid nos ofrece un día de primavera divino,
-con temperaturas suaves y un sol radiante que brilla con fuerza.
-Mañana, elige Madrid, y déjate envolver por su calor,
-y disfruta de un día lleno de luz, sin precipitaciones que te molesten.
+Spanish:
+¿Dónde será más agradable estar mañana?
+En Madrid, con temperaturas que suben y bajan,
+sin lluvia y con un índice UV de 6.75, es el lugar ideal.
+Viena es fresca, con vientos moderados y un día más largo,
+pero Aalborg es frío y ventoso, con un sol más débil.
+Así que mañana, Madrid será la ciudad más agradable,
+con su clima suave y su sol radiante, el lugar perfecto para estar.
