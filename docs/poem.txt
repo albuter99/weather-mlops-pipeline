@@ -1,19 +1,16 @@
-English:
-As tomorrow dawns, Madrid's skies will grey,
-With 22mm of rain, and winds that sway,
-18°C highs, but chilly 14°C nights,
-Aalborg and Vienna offer more delight.
-Vienna's sunny, with a gentle breeze,
-Aalborg's long daylight, a warm tease,
-Madrid's UV index shines, but rain spoils the fun,
-Perhaps Vienna's calm, is where you'd want to be, tomorrow, under the sun.
+Tomorrow's forecast unfolds,
+In Madrid, warmth with gentle winds, 
+21 degrees Celsius, sunny skies, 
+A pleasant day with UV high.
+Vienna's chill, with winds that bite,
+14 degrees, a cloudy sight.
+Aalborg's breeze, both strong and cold,
+16 degrees, with daylight to behold.
 
-Spanish:
-Pero si buscas un lugar más agradable,
-Aalborg ofrece más luz del día, y un viento más suave,
-Con temperaturas máximas de 17°C, y mínimas de 5°C,
-Y un índice UV de 5.3, para un bronceado más saludable,
-Mientras que Viena, con sus 16°C, y un viento de 19 km/h,
-Ofrece un clima más templado, sin lluvia, para disfrutar,
-Así que elige Aalborg, o Viena, y deja a Madrid, con su lluvia,
-Y encuentra tu lugar perfecto, para disfrutar del sol, y la brisa.
+Mañana, el clima nos sonríe,
+En Madrid, el calor es suave, sin lluvia,
+mientras que Viena se mantiene fresca,
+y Aalborg enfrenta vientos fuertes, sin calma.
+Pero si tuviera que elegir, 
+estaría en Madrid, con su sol y su brisa ligera,
+donde el clima es agradable, y el día es largo y claro.
