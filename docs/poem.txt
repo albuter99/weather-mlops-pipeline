@@ -1,16 +1,11 @@
-Tomorrow's forecast unfolds,
-In Madrid, warmth with gentle winds, 
-21 degrees Celsius, sunny skies, 
-A pleasant day with UV high.
-Vienna's chill, with winds that bite,
-14 degrees, a cloudy sight.
-Aalborg's breeze, both strong and cold,
-16 degrees, with daylight to behold.
+English:
+Tomorrow, Madrid's warm breeze calls,
+With 24 degrees and sunny walls,
+No rain to dampen the delight,
+A pleasant day, a wondrous sight.
 
-Mañana, el clima nos sonríe,
-En Madrid, el calor es suave, sin lluvia,
-mientras que Viena se mantiene fresca,
-y Aalborg enfrenta vientos fuertes, sin calma.
-Pero si tuviera que elegir, 
-estaría en Madrid, con su sol y su brisa ligera,
-donde el clima es agradable, y el día es largo y claro.
+Spanish:
+Pero si buscas un lugar más suave,
+Vienna y Aalborg ofrecen un clima más rave,
+Con temperaturas más frescas y vientos más ligeros,
+Aalborg brilla con más luz del día, y un índice UV más bajo, ¡qué lugar más agradable para estar mañana!
