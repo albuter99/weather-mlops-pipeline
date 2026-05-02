@@ -1,11 +1,15 @@
-English:
-Tomorrow, Madrid's warm breeze calls,
-With 24 degrees and sunny walls,
-No rain to dampen the delight,
-A pleasant day, a wondrous sight.
+As tomorrow dawns, Madrid's skies will grey,
+With 6.9mm of rain, and winds that sway,
+18.7 degrees high, 14.7 low, a gentle breeze,
+50296 seconds of daylight, and a moderate UV tease.
+But if I had to choose, I'd leave Madrid behind,
+For Vienna's sunshine, with 23.9 degrees on my mind,
+Or Aalborg's warmth, with 24.4 degrees so fine,
+Both rain-free, with gentle winds, a perfect day to shine.
 
-Spanish:
-Pero si buscas un lugar más suave,
-Vienna y Aalborg ofrecen un clima más rave,
-Con temperaturas más frescas y vientos más ligeros,
-Aalborg brilla con más luz del día, y un índice UV más bajo, ¡qué lugar más agradable para estar mañana!
+Mañana, Viena brillará con 23.9 grados de calor,
+Mientras Aalborg gozará de 24.4 grados, sin una gota de lluvia,
+La duración de la luz del día es mayor en Aalborg, con 56156 segundos,
+Y el índice de UV es moderado, con 5.4, perfecto para disfrutar,
+Así que si tuviera que elegir, escogería Aalborg o Viena para mañana,
+Donde el sol brilla, y el clima es agradable, sin la lluvia de Madrid.
