@@ -1,17 +1,19 @@
 English Section:
-Tomorrow's forecast reveals a tale of three cities so fair,
-Madrid's mild with 19 degrees, a gentle breeze in the air.
-Vienna shines with 25 degrees, a warmer delight,
-Aalborg's cooler at 15, with a wind that blows through the night.
-Considering the UV index, Vienna's 6.1 is relatively low,
-While Madrid's 7.5 requires more sun protection to go.
-Given the choices, Vienna's warmth and longer daylight sway,
-Making it the nicest place to be tomorrow, come what may.
+As sunrise paints the morning sky,
+Madrid's gentle breeze whispers by,
+With temperatures mild, and rain so slight,
+A pleasant day, with UV's warm light.
+Vienna's wind blows stronger, warmer too,
+But Aalborg's dawn, with longest daylight shines through,
+Aalborg's chill, with no rain in sight,
+Makes Vienna's warmth, the nicest delight.
 
 Spanish Section:
-Mañana, Madrid amanece con 19 grados y un viento suave,
-Mientras Viena brilla con 25, un calor que nos hace soñar.
-Aalborg, con 15 grados, es más fresca y ventosa,
-Pero Viena, con su día más largo y un índice UV de 6.1, es la que nos atrae.
-Con una duración de luz diurna de 53205 segundos, Viena nos ofrece más,
-Y aunque Madrid tiene un índice UV más alto, Viena es el lugar perfecto para estar mañana, sin duda.
+Mañana, ¿dónde estaría bien?
+Viena ofrece calor, y un cielo sereno,
+Mientras Madrid, con lluvia suave, y viento bajo,
+Invita a pasear, con un clima más templado.
+Aalborg, con su largo día, y sol radiante,
+Pero frío, y viento, que corta el aliento,
+Viena, con su temperatura, y brisa ligera,
+Sería el lugar, donde pasar el día, con más placer.
