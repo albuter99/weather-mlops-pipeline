@@ -1,19 +1,15 @@
-English Section:
-As sunrise paints the morning sky,
-Madrid's gentle breeze whispers by,
-With temperatures mild, and rain so slight,
-A pleasant day, with UV's warm light.
-Vienna's wind blows stronger, warmer too,
-But Aalborg's dawn, with longest daylight shines through,
-Aalborg's chill, with no rain in sight,
-Makes Vienna's warmth, the nicest delight.
+English:
+Tomorrow's forecast unfolds like a tale,
+Madrid's mild, with temperatures set to prevail,
+18 degrees at max, a gentle breeze to sway,
+While Vienna shines, with a warmer, sunnier day.
+Aalborg's winds howl strong, with a chill in the air,
+But which city would be nicest, with weather beyond compare?
 
-Spanish Section:
-Mañana, ¿dónde estaría bien?
-Viena ofrece calor, y un cielo sereno,
-Mientras Madrid, con lluvia suave, y viento bajo,
-Invita a pasear, con un clima más templado.
-Aalborg, con su largo día, y sol radiante,
-Pero frío, y viento, que corta el aliento,
-Viena, con su temperatura, y brisa ligera,
-Sería el lugar, donde pasar el día, con más placer.
+Spanish:
+Mañana, Viena brilla con 21 grados de calor,
+sin precipitaciones, un día perfecto para explorar,
+Mientras Madrid y Aalborg tienen temperaturas similares,
+Viena es el lugar ideal, con más luz del día y menos viento que sopla,
+Así que si buscas un destino agradable, Viena es tu mejor opción, 
+donde el sol brilla con fuerza, y la temperatura es una delicia.
