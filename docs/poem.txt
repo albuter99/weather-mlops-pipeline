@@ -1,15 +1,9 @@
-English:
-As sunbeams dance upon the earth,
-Madrid's warmth entices with gentle birth,
-16 degrees at max, a pleasant day,
-While Vienna's chill and Aalborg's breeze sway.
-The Spanish city's UV index high,
-Beckons us to bask, with a gentle sigh.
+In Madrid's gentle breeze, tomorrow's forecast shines,
+A balmy 20 degrees, with sunshine that divine.
+The UV index rises high, a gentle warmth to share,
+A lovely day to stroll, without a care.
 
-Spanish:
-Mañana, ¿dónde estaría bien?
-No en Viena, con su viento fuerte y lluvia,
-Ni en Aalborg, con su frialdad matutina,
-Sino en Madrid, con su calor suave y luz divina.
-Con 7 de índice UV, la ciudad nos sonríe,
-Y nos invita a disfrutar de su día soleado y sereno.
+En Viena, el viento sopla fuerte, con 20 kilómetros por hora,
+mientras que Aalborg lluvia y viento combina en una jornada oscura.
+Madrid, con su clima suave, es el lugar ideal para estar,
+donde el sol brilla con índice UV de 6.3, y la temperatura es agradable, sin excesos ni escasez.
