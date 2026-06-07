@@ -1,15 +1,16 @@
-English:
-Tomorrow's forecast unfolds, a tale of three cities wide,
-Madrid basks in warmth, 29 degrees, a sunny pride.
-Vienna's gentle breeze whispers secrets, at 24 degrees high,
-Aalborg's winds howl stronger, under greyer skies, with temperatures shy.
-The sun shines bright, with UV indices varying in each place,
-Madrid's 8, Vienna's 6.8, Aalborg's 6.2, a gentle, warm embrace.
+English Section:
+Tomorrow, Madrid's warmth will shine,
+31 degrees, a sunny climb.
+No rain, just gentle breeze,
+A perfect day to seize.
+In contrast, Vienna's wind whispers low,
+While Aalborg's rain may make you slow.
 
-Spanish:
-Mañana, si buscaras un lugar para estar,
-Madrid es cálido, con 29 grados y sin lluvia, un paraíso sin igual.
-Viena, con 24 grados, ofrece una brisa suave y deliciosa,
-Pero Aalborg, con vientos fuertes y 20 grados, es menos atractiva, quizás.
-La duración de la luz del día varía, Madrid tiene 14 horas y 48 minutos,
-Viena tiene 15 horas y 53 minutos, y Aalborg, 17 horas y 38 minutos, un verdadero festín de sol y luz.
+Spanish Section:
+Pero si buscas el lugar ideal,
+Donde el clima sea agradable y real,
+Madrid es el destino, sin duda,
+Con 53875 segundos de luz solar, brilla con dulzura.
+Viena ofrece más viento, Aalborg más lluvia,
+Pero Madrid, con su UV index de 7.9, es la que más brilla,
+Así que mañana, ¡vamos a Madrid, a disfrutar del sol!
