@@ -1,14 +1,15 @@
-English:
-Tomorrow's forecast whispers tales of three cities so fair,
-Madrid's warmth will shine with 32 degrees, beyond compare.
-Vienna's gentle breeze will sway, with 25 degrees in sight,
-Aalborg's cool winds will blow, on a shorter, chillier night.
-The sun will shine with varying grace, in each city's unique way,
-But Madrid's warmth and sunny rays make it the perfect place to stay.
+English Section:
+As sunrise approaches on June 18th, 
+Madrid's warmth beckons, a balmy 34 degrees high,
+While Vienna's clouds bring scattered rain, 
+Aalborg's chill is tempered by long daylight's gentle sigh.
+The UV index varies, but Madrid's eight is the test,
+Where would you rather bask, and let your spirit rest?
 
-Spanish:
-Mañana, Madrid brillará con 32 grados de calor,
-Viena tendrá una brisa suave, con 25 grados y poca lluvia de más.
-Aalborg sentirá el viento fresco, con 17 grados y un cielo gris,
-Pero la duración del día y el índice UV, hacen que Madrid sea el lugar ideal para disfrutar del sol y el calor.
-La elección es clara, mañana será un día perfecto en Madrid, con su clima cálido y soleado, sin precipitaciones, ni vientos fuertes.
+Spanish Section:
+Mañana, ¿dónde estarás?
+Viena tendrá lluvia, y viento que corta,
+Aalborg, fresca, con un sol más débil,
+Mientras Madrid brilla, con calor que abraza.
+La duración del día es distinta en cada ciudad,
+Pero Madrid, con su calor y sol radiante, es el lugar perfecto para estar.
