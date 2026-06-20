@@ -1,19 +1,17 @@
-English:
-Tomorrow's forecast unfolds like a tale,
-Madrid's heat will surely prevail,
-35 degrees, a scorching high,
-While Vienna's 32 and Aalborg's 27 touch the sky.
-Vienna's winds whisper secrets cold,
-Aalborg's daylight dances, young and old,
-But Madrid's UV index shines so bright,
-A haven for sun-seekers, a warm delight.
+English Section:
+As summer solstice dawns on June 21,
+Madrid's heat waves soar, a scorching high of 36.8 degrees.
+Vienna's breeze is gentler, with a max of 34.1 degrees,
+While Aalborg's rain falls soft, amidst a cooler 27.2 degrees.
+The choice is clear, for a tranquil day,
+Vienna's mild warmth beckons, come what may.
 
-Spanish:
-Pero si buscas un clima más suave y dulce,
-Viena es la opción, con su brisa que acecha,
-Y aunque Aalborg tenga más luz del día,
-Madrid es el lugar donde el sol brillará con más fuerza y alegría.
-La falta de lluvia en las tres ciudades es un regalo,
-Pero si tuviera que elegir, Madrid sería mi destino de mañana,
-Donde el calor y la luz se unen en un abrazo cálido y luminoso,
-Y aunque el viento sea suave, el sol es el rey en este día de verano.
+Sección en Español:
+Mañana, ¿dónde estaría mejor?
+No en Madrid, con su calor abrasador,
+Ni en Aalborg, con su lluvia suave,
+Sino en Viena, con su brisa ligera y suave.
+Con 57866 segundos de luz del día,
+Y un índice UV de 6.9, es el lugar perfecto para estar,
+Donde el sol brilla suave, y el viento susurra bajo,
+Viena, la ciudad del encanto, te espera mañana.
