@@ -1,17 +1,19 @@
-English Section:
-As summer solstice dawns on June 21,
-Madrid's heat waves soar, a scorching high of 36.8 degrees.
-Vienna's breeze is gentler, with a max of 34.1 degrees,
-While Aalborg's rain falls soft, amidst a cooler 27.2 degrees.
-The choice is clear, for a tranquil day,
-Vienna's mild warmth beckons, come what may.
+English:
+As summer solstice nears, three cities sway,
+Madrid basks in 38-degree heat of day,
+Vienna's 34 degrees, a gentle breeze,
+Aalborg's 22, with winds that bring the seas.
+Madrid's UV index high, a caution to take,
+Vienna's and Aalborg's, a safer shade to make.
 
-Sección en Español:
-Mañana, ¿dónde estaría mejor?
-No en Madrid, con su calor abrasador,
-Ni en Aalborg, con su lluvia suave,
-Sino en Viena, con su brisa ligera y suave.
-Con 57866 segundos de luz del día,
-Y un índice UV de 6.9, es el lugar perfecto para estar,
-Donde el sol brilla suave, y el viento susurra bajo,
-Viena, la ciudad del encanto, te espera mañana.
+Spanish:
+Mañana, ¿dónde estaría bien?
+No en Madrid, con calor que abrasa el suelo,
+Ni en Aalborg, con vientos que cortan como cuchillo,
+Sino en Viena, con 34 grados y un cielo sereno,
+Donde el sol brilla con suavidad, y la brisa es un susurro.
+Tomorrow, where would it be nice to be?
+Not in Madrid, with scorching heat on the ground,
+Nor in Aalborg, with cutting winds like a knife,
+But in Vienna, with 34 degrees and a serene sky,
+Where the sun shines gently, and the breeze is a whisper.
