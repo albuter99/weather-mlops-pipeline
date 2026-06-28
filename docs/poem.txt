@@ -1,15 +1,17 @@
-English:
+English Section:
 As summer's warmth descends upon the land,
-Madrid, Vienna, and Aalborg take a stand.
-Madrid's heat is fierce, with 34 degrees high,
-While Vienna swelters at 36, the hottest in the sky.
-Aalborg's 32 degrees offers a gentle breeze,
-A respite from the heat, if you please.
+Madrid's 33 degrees and sunny stand,
+Vienna's 38 degrees, a scorching high,
+Aalborg's 28, with rain passing by.
+The UV index varies, a factor to weigh,
+But tomorrow, Vienna's warmth might just sway,
+A pleasant choice, with clear skies to stay.
 
-Spanish:
-Mañana, ¿dónde será más agradable estar?
-Vienna es calurosa, con viento que corta,
-Madrid brilla con sol intenso, sin gota de lluvia,
-Pero Aalborg, con su brisa suave y luz del norte,
-Ofrece la combinación perfecta, sin exceso de calor, 
-Donde el sol brilla con fuerza, pero sin quemar.
+Spanish Section:
+Mañana, ¿dónde estaría mejor?
+Viena, con su calor y cielo sin nubes, es tentadora,
+Madrid, con 22 grados de mínima, ofrece una noche fresca,
+Mientras Aalborg, con lluvia y viento, es menos atractiva.
+La duración de la luz del día también es un factor,
+Pero con 57.744 segundos de sol, Viena brilla con fuerza,
+Así que, si buscas un día cálido y soleado, Viena es el lugar.
