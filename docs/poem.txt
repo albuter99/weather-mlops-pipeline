@@ -1,13 +1,15 @@
 English:
-As tomorrow dawns, Madrid's heat will rise,
-36 degrees, a sunny, cloudless surprise.
-Vienna's warmth is similar, yet brings some rain,
-While Aalborg's mild 23 degrees will soothe the pain.
-Considering all, Aalborg's gentle breeze and long daylight hours make it the perfect place to be tomorrow, with a pleasant temperature and minimal UV concerns.
+Tomorrow's forecast beckons, a tale of three cities apart,
+Madrid's heat waves rise, 36 degrees a scorching heart.
+Vienna's showers fall, a gentle 4.7 mm, a cooler breeze,
+Aalborg's mild 24 degrees, a haven for gentle ease.
+The longest daylight shines in Aalborg's gentle sky,
+A pleasant choice, as the UV index passes by.
 
 Spanish:
-Mañana, Viena tendrá una lluvia ligera y viento más fuerte,
-mientras que Madrid brillará con un sol intenso y sin nubes.
-Aalborg, con su clima más suave y días más largos, 
-ofrece un refugio agradable, lejos del calor y la radiación UV extrema.
-La elección es clara, Aalborg es el lugar ideal para disfrutar del mañana.
+Mañana, ¿dónde estarás? 
+En Madrid, el sol abrasa con 36 grados de fuego,
+En Viena, las lluvias caen suaves, 4.7 mm de frescor,
+En Aalborg, la temperatura milda, 24 grados de amor.
+La duración de la luz del día es más larga en Aalborg,
+Con un índice UV moderado, un lugar ideal para soñar.
