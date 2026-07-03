@@ -1,15 +1,11 @@
 English:
-Tomorrow, Madrid shines with heat,
-34 degrees, a sun-kissed treat.
-Vienna's milder, with a gentle breeze,
-While Aalborg's chill, with rain's cool squeeze.
-If I could choose, I'd bask in Madrid's glow,
-Where warmth and sunshine make the heart sing and grow.
+Tomorrow, Madrid's heat will rise to 36 degrees, 
+a sunny day with gentle breeze. 
+In contrast, Vienna's temperatures will be mild and fair, 
+while Aalborg's winds will bring a cooler air.
 
 Spanish:
-Pero si busco un lugar más suave,
-Elegiría Viena, con su clima más clemente y breve.
-Aunque Aalborg ofrece más horas de luz,
-Su lluvia y viento la hacen menos acogedora, sin duda.
-Madrid es para los que aman el calor,
-Pero Viena es el lugar perfecto para un verano más dulce y amor.
+Pero si tuviera que elegir, 
+escogería Viena, con su clima suave y suave brisa, 
+pues Madrid será demasiado caluroso, 
+y Aalborg, con lluvia y viento, no será el mejor lugar para disfrutar del día.
