@@ -1,11 +1,15 @@
 English:
-Tomorrow, Madrid's heat will rise to 36 degrees, 
-a sunny day with gentle breeze. 
-In contrast, Vienna's temperatures will be mild and fair, 
-while Aalborg's winds will bring a cooler air.
+Tomorrow's forecast unfolds, 
+Madrid's heat waves rise to 38 degrees high,
+Vienna's gentle breeze whispers low at 28, 
+Aalborg's cool 21, a soothing summer's sigh.
+With UV indexes varying, and winds that gently sway,
+Each city's charm awaits, come what may.
 
 Spanish:
-Pero si tuviera que elegir, 
-escogería Viena, con su clima suave y suave brisa, 
-pues Madrid será demasiado caluroso, 
-y Aalborg, con lluvia y viento, no será el mejor lugar para disfrutar del día.
+Mañana, el cielo nos sonríe,
+Viena es el lugar ideal, con 28 grados y brisa suave,
+Mientras Madrid arde con 38, y Aalborg refresca con 21,
+La duración de la luz del día y el índice UV, hacen que Viena sea el sitio perfecto para estar.
+Sin lluvia, con vientos moderados, Viena nos llama, 
+¿Dónde estarás mañana? Tal vez en Viena, bajo su cielo benigno.
