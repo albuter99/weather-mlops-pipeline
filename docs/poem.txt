@@ -1,19 +1,15 @@
-As tomorrow dawns, three cities await,
-Madrid's heat waves rise, a scorching state,
-37 degrees, a summer's burning flame,
-While Vienna's 30 degrees offers a gentler claim,
-Aalborg's 21, a mild and breezy day,
-But with rain and wind, it may drive you away.
-Madrid's sunshine lasts, with UV index high,
-But Vienna's longer daylight whispers a gentle sigh,
-Aalborg's winds howl strong, with precipitation's might,
-So tomorrow, Vienna's gentle breeze feels just right.
+English Section:
+Tomorrow, Madrid's heat will soar to 37.8 degrees high,
+While Vienna reaches 34.6, with a gentle summer sigh.
+Aalborg's mild 28.2 degrees will bring a refreshing breeze,
+But with the most daylight hours, it's where you'd want to seize.
+Madrid's warmth and zero rain make it a sunny delight,
+But Aalborg's long days and gentle wind make it the perfect sight.
 
-Mañana, tres ciudades se despiertan,
-Madrid con olas de calor, un estado abrasador,
-Viena con 30 grados, una temperatura suave,
-Aalborg con 21, un día fresco y ventoso, pero con lluvia que puede ahuyentarte,
-La duración de la luz del día y el índice de UV,
-Hacen que Viena sea el lugar más agradable para estar,
-Con una brisa suave y una temperatura agradable,
-Viena es el lugar donde el clima es más benigno y amable.
+Spanish Section:
+La temperatura más alta en Viena es de 34.6 grados,
+Pero en Madrid alcanza 37.8, con un calor que abruma y sofoca.
+Aalborg, con 28.2 grados y vientos moderados, es el lugar ideal,
+Donde el sol brilla con una intensidad UV de 5.6, sin precipitaciones que estropeen el día.
+Mañana, si tuviera que elegir, me gustaría estar en Aalborg, 
+donde la luz del día dura más y el clima es suave y agradable.
