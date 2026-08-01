@@ -1,14 +1,15 @@
+English:
 As summer's warmth descends upon the land,
-Madrid and Vienna bask in heat's command,
-With temperatures soaring high and bright,
-Aalborg's gentle breeze offers a cooler sight.
-The UV index varies, with Madrid's high score,
-But all three cities shine with precipitation's absence once more.
-Tomorrow, if I had to choose, I'd flee to Aalborg's shore,
+Madrid's heat shines bright, with temperatures so grand.
+37 degrees, a sweltering high, with sunshine all day long,
+But Vienna's rain and Aalborg's breeze may make their temperatures feel wrong.
+The UV index varies, a factor to consider with care,
+But for tomorrow, Madrid's warmth is hard to bear.
 
-Mañana, si tuviera que elegir, me gustaría estar en Aalborg, 
-donde la brisa es suave y la temperatura es agradable, 
-sin el calor intenso de Madrid y Viena, 
-y con una duración de luz diurna que es la más larga de las tres, 
-sin olvidar que el índice de UV es más bajo, 
-haciendo de Aalborg el lugar ideal para escapar del calor estival.
+Spanish:
+Mañana, ¿dónde estaría bien?
+No en Viena, con lluvia y viento que hiela,
+Ni en Aalborg, con temperaturas bajas y grises días,
+Sino en Madrid, con sol y calor que nunca cesan,
+Aunque el índice UV es alto, la sensación de calor es intensa,
+Madrid es el lugar perfecto para disfrutar del verano con pasión.
