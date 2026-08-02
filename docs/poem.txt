@@ -1,15 +1,15 @@
-English:
+English Section:
 As summer's warmth descends upon the land,
-Madrid's heat shines bright, with temperatures so grand.
-37 degrees, a sweltering high, with sunshine all day long,
-But Vienna's rain and Aalborg's breeze may make their temperatures feel wrong.
-The UV index varies, a factor to consider with care,
-But for tomorrow, Madrid's warmth is hard to bear.
+Madrid's heat stands out, a scorching brand,
+35 degrees at max, with sunshine bright,
+While Vienna's 30 degrees offers a gentler night.
+Aalborg's 20 degrees, with winds that sway,
+And rain that whispers, on a summer's day.
 
-Spanish:
+Spanish Section:
 Mañana, ¿dónde estaría bien?
-No en Viena, con lluvia y viento que hiela,
-Ni en Aalborg, con temperaturas bajas y grises días,
-Sino en Madrid, con sol y calor que nunca cesan,
-Aunque el índice UV es alto, la sensación de calor es intensa,
-Madrid es el lugar perfecto para disfrutar del verano con pasión.
+No en Aalborg, con viento y lluvia fría,
+Ni en Vienna, con sol pero menos calor,
+Sino en Madrid, con sol y calor a porfía,
+Donde el índice UV es alto, pero la noche es cálida y serena,
+Y el día dura mucho, con 51346 segundos de sol y vida.
