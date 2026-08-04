@@ -1,15 +1,20 @@
-English:
-Tomorrow, Madrid's warmth will rise to 32 degrees,
-Vienna will soar to 38, a heat that teases.
-Aalborg's mild 23 will bring a gentle breeze,
-A pleasant escape from the scorching trees.
-Madrid's UV index of 7.6 will shine so bright,
-But Aalborg's longer daylight hours feel just right.
+English Section:
+Tomorrow, Madrid's warmth will rise,
+33 degrees, with sunshine in the skies.
+No rain, just gentle breeze to sway,
+A pleasant day, in a lovely way.
+But Vienna's heat will reach its peak,
+39 degrees, a temperature unique.
+Aalborg's chill, with rain in store,
+Might not be the best, to walk once more.
 
-Spanish:
-Mañana, Viena será la más calurosa del día,
-con 38 grados, mientras Aalborg disfrutará de una temperatura más suave.
-Madrid tendrá un día soleado sin lluvia,
-pero Aalborg ofrecerá una brisa refrescante y más horas de luz.
-La elección es clara, Aalborg es el lugar ideal,
-donde el clima es agradable y la naturaleza es surreal.
+Spanish Section:
+¿Dónde estaría bien mañana?
+No en Viena, con calor extremo,
+ni en Aalborg, con lluvia y viento.
+Madrid, con 33 grados y sol,
+será el lugar ideal, para disfrutar el día.
+La duración del día, es larga y clara,
+y el índice UV, es moderado, sin alarmar.
+Así que mañana, Madrid será el lugar,
+donde el clima, será agradable y gentil.
