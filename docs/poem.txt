@@ -1,19 +1,15 @@
-English Section:
-Tomorrow, three cities await, 
-Madrid's heat, a sweltering fate, 
-37 degrees, a sunny state, 
-while Vienna's 29, a gentle weight.
-Aalborg's breeze, a cooler shade, 
-21 degrees, with winds that have sway,
-which city would be nicest to stay?
-Perhaps Vienna, with its gentle day.
+English:
+Tomorrow, Madrid's heat will shine so bright,
+35 degrees at max, a summer's warm delight.
+Vienna's temperatures, a few notches below,
+Aalborg's the coolest, with a gentle flow.
+Madrid's UV index reaches for the sky,
+But with no rain, the choice is hard to deny.
 
-Spanish Section:
-Mañana, tres ciudades nos llaman,
-Viena es la opción, con un día tranquilan,
-sin lluvia, con viento suave, y sol radiante,
-su índice UV, más bajo, un regalo para la piel.
-Madrid es calor, Aalborg es viento,
-pero Viena, es el equilibrio perfecto,
-donde el sol brilla, y la temperatura es dulce,
-mañana, Viena, será el lugar más agradable de estar.
+Spanish:
+Mañana, Madrid brilla con calor intenso,
+Viena y Aalborg ofrecen un clima más suave, sin precipitenso.
+Aalborg tiene la duración de luz más larga,
+pero Madrid tiene el atractivo de un verano que arranca.
+Con un índice UV de 7,7, Madrid es el lugar más soleado,
+y sin lluvia, es el destino perfecto para mañana, sin duda.
